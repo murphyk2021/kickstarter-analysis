@@ -35,7 +35,7 @@ Making this additional graph was a helpful step for me as I had to reference Goo
 ![Adjusting the Pivot Table to show Percentages instead of total counts](https://github.com/murphyk2021/kickstarter-analysis/blob/4ef50dc63bad0f72920e3418cfb52275bbced9d5/making%20a%20percentage%20of%20the%20s_f_c%20kickstarters%20by%20launch%20date.png)
 
 - - -
-### Results Outcomes Based on Goals
+### Results: Outcomes Based on Goals
 To determine the relative success of fundraisers for plays with regard to their goals, we needed to create another worksheet in our workbook that would automatically look through our original data set and identify how many play campaigns had goals within a certain range and how many of those campaigns were successful.  We used a "CountIf" to achieve this goal.  See the set up below.
 ![Using the "CountIf" Statement](https://github.com/murphyk2021/kickstarter-analysis/blob/31442fdc34979290fa8711ff26d7995c47a23e5b/countif.png)
 
