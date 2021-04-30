@@ -23,13 +23,13 @@ To generate this analysis the first thing we needed to do was create an easily m
 ![Outcomes based on launch date](https://github.com/murphyk2021/kickstarter-analysis/blob/4ef50dc63bad0f72920e3418cfb52275bbced9d5/Theater_outcomes_vs_Launch.png)
 
 ---
-From the graph above, we can clearly see that the greatest number of successful campaigns happen during the month of May.  However, it is important to note that during May 166 total campaigns were launched which was higher than any other month.  So, it might be interesting to take this one step further and look at the *percentage* of successful campaigns launched in each month. 
+From the graph above, we can clearly see that the greatest number of successful campaigns happen during the month of May.  However, it is important to note that during May 166 total campaigns were launched which was higher than any other month.  To confirm that haven't accidentally come to a false conclusion, it might be interesting to take this one step further and look at the *percentage* of successful campaigns launched in each month. 
 
-![Percentage of Successful, Failed, of Canceled Kickstarters based on Launch date](https://github.com/murphyk2021/kickstarter-analysis/blob/4ef50dc63bad0f72920e3418cfb52275bbced9d5/Theater_outcomes_vs_Launch_Percentage.png)
+![Percentage of Successful, Failed, of Canceled Kickstarters based on Launch date](https://github.com/murphyk2021/kickstarter-analysis/blob/4f5b13f948bb4e31eff157e442898b7778bf40c7/Theater_outcomes_vs_Launch_Percentage.png)
 
-From this additional graph we can confirm that historically, 66% of all of our theater related kickstarter campaigns launched during the month of May were successful and this was greater than any other month during the year.  May also had the lowest fail rate.  This is likely the reason May is a popular month for campaigns to be launched! 
+From this adjusted graph we can confirm that historically May does have the greatest number of launched campaigns and it has the greatest success rate of the entire year at 67%.  May also had the lowest fail rate(31%).  This is likely the reason May is a popular month for campaigns to be launched! 
 
-This graph was created by simply adjusting the "outcomes" in the field category to a "% of the row total".
+This graph was created by simply adding a second count of the "outcomes"  and adjusting the field category to a "% of the row total".   Then we can make a "combo" graph that includes a y-axis for the total count and a second y-axis for the percent success, failed, and canceled.  Making this additional graph was a helpful step for me as I had to reference google to help me figure out how to change the calculation for the outcomes column. See image below.  To create the chart I referenced [this forum.](https://superuser.com/questions/1327704/excel-pivot-with-percentage-and-count-on-bar-graph)
 
 ![Adjusting the Pivot Table to show Percentages instead of total counts](https://github.com/murphyk2021/kickstarter-analysis/blob/4ef50dc63bad0f72920e3418cfb52275bbced9d5/making%20a%20percentage%20of%20the%20s_f_c%20kickstarters%20by%20launch%20date.png)
 
