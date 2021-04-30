@@ -47,14 +47,13 @@ From this data there appears to be some important monetary brackets to avoid.  F
 If we also include the number of total campaigns within each financial bracket we can also see that most of our campaigns had goals on the lower end of our data. See grah below.
 ![Outcomes based on goal with total number](https://github.com/murphyk2021/kickstarter-analysis/blob/8d3060f189b68bf852797e1dee835832e53f7db0/resources/Outcomes_vs_Goals_with_totals.png)
 
-###Additional Information Needed
+### Additional Information Needed
 Other information that might be interesting to present to Louise would be how many of these successful campaigns exceeded their goals and by how much.  It is possible that some of these underestimated their potential success! Additionally, how unsuccessful were the failed campaigns.  This data might give a little more insight into the trends of pledges.    
 
 Additionally, we may want to include an analysis of how long each campaign was live.  This will help ensure that her audience is motivated to pledge quickly but also allows enough time to get the word out and push the campaign.
 
-###In Conclusion
+### In Conclusion
 Based off of these 2 parameters alone, Louise is doing quite well if she is close to her goal of $10,000!  
-
 
 - - -
 
