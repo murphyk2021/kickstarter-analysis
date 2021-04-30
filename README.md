@@ -40,14 +40,18 @@ To determine the relative success of fundraisers for plays with regard to their 
 ![Using the "CountIf" Statement](https://github.com/murphyk2021/kickstarter-analysis/blob/31442fdc34979290fa8711ff26d7995c47a23e5b/countif.png)
 
 From this data we can easily create a line graph which shows the percentage of campaigns which were successful or not.  
-![Outcomes based on Goal](https://github.com/murphyk2021/kickstarter-analysis/blob/31442fdc34979290fa8711ff26d7995c47a23e5b/resources/Outcomes_vs_Goals.png)
+![Outcomes based on Goal](https://github.com/murphyk2021/kickstarter-analysis/blob/38326a69ed9dadaf2704cb7424691956f6252e47/resources/Outcomes_vs_Goals.png)
 
 From this data there appears to be some important monetary brackets to avoid.  For example, campaigns that set their goals between $5,000 and $35,000 are generally less successful than those set <$5,000.  However, we do see some increase in success in the range of $35,000 and $45,000. 
 
-Another graph we may want to consider making for this report would be a box plot.  Box plots can be really helpful as we can clearly see the mean, median, quartiles, and any potential outliers all in one image!  This will help us determine wheter our initial graph included some outliers that might skew the data.
+If we also include the number of total campaigns within each financial bracket we can also see that most of our campaigns had goals on the lower end of our data. See grah below.
+![Outcomes based on goal with total number](https://github.com/murphyk2021/kickstarter-analysis/blob/8d3060f189b68bf852797e1dee835832e53f7db0/resources/Outcomes_vs_Goals_with_totals.png)
+
+Another piece of information that might be interesting to present to Louise would be how many of these successful campaigns exceeded their goals and by how much.  It is possible that some of these underestimated their potential success! Additionally, how unsuccessful were the failed campaigns.  This data might give a little more insight into the trends of pledges.    
+
 
 ###In Conclusion
-Louise is doing quite well if she is close to her goal of $10,000!  At this range, it appears to be close to 50/50 chance of success.  
+Based off of these parameters, Louise is doing quite well if she is close to her goal of $10,000!  
 
 
 - - -
