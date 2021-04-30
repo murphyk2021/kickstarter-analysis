@@ -16,7 +16,7 @@ In addition to the functions of Excel, students were introduced to commonly used
 
 - - -
 ## Analysis and Challenges
-To generate this analysis the first thing we needed to do was create an easily manipulated pivot table.  In our pivot table we included the number of successful, failed, and canceled kickstarter projects and filtered the results to only include those related to theater productions.  We also sorted this data to display which months of the year had the most campaigns in each of the aforementioned categories.  [See source file](kickstarter_challenge_COPY.zip).
+To generate this analysis the first thing we needed to do was create an easily manipulated pivot table.  In our pivot table we included the number of successful, failed, and canceled kickstarter projects and filtered the results to only include those related to theater productions.  We also sorted this data to display which months of the year had the most campaigns in each of the aforementioned categories.  [See source file](https://github.com/murphyk2021/kickstarter-analysis/blob/b11972e9a999ab2e392073dc4cf2b469af3d40a8/Kickstarter_Challenge.xlsx%20-%20Copy.zip).
 
 ### Results:  Outcomes Based on Launch Date
 
