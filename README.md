@@ -1,9 +1,18 @@
 # Kickstarting with Excel - An Analysis of Kickstarter Campaigns
 - - -
 ## Overview of Project
-Module 1 Exercise Performing analysis on Kickstarter data to uncover trends for Louise
+Our friend Louise wants to launch a kickstarter campaign to raise $10,000 for the performance she is organizing, *Fever*.  In this Module, we were tasked with sorting through a relatively large data set which included informaiton about past kickstarter campaigns in the hopes of revealing trends that would help Louise determine if her monetary goal was reasonable and establish when during the year she should launch her campaign to optimize her efforts.
 - - -
 ### Purpose
+While completing this module students were introduced to some of the automated features that Excel has to offer such as:
+ - formatting cells,
+ - Sorting and filtering mass amounts of data,
+ - Creating new sheets within a workbook,
+ - Using formulas to perform calculations using data spanning multiple sheets,
+ - Creating easily manipulated pivot tables,
+ - Generating visually appealing charts to display our data quickly to the user.
+
+In addition to the functions of Excel, students were introduced to commonly used statistical methods such as; the mean, median, mode, and quartiles, to help our client, Louise, determine what an appropriate goal would be for her fundraiser based on the success of failures of others.  After reviewing our initial data, Louise's kickstarter campaign cam close to her goal, but now she wants to see how her campaign measures up to similar fundraisers.
 
 - - -
 ## Analysis and Challenges
