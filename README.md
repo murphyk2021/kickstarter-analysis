@@ -27,7 +27,7 @@ From the graph above, we can clearly see that the greatest number of successful 
 
 ![Percentage of Successful, Failed, of Canceled Kickstarters based on Launch date](https://github.com/murphyk2021/kickstarter-analysis/blob/4f5b13f948bb4e31eff157e442898b7778bf40c7/Theater_outcomes_vs_Launch_Percentage.png)
 
-From this adjusted graph we can confirm that historically May does have the greatest number of launched campaigns but it also has the greatest success rate of the entire year at 67%.  May also had the lowest fail rate(31%).  This is likely the reason May is a popular month for campaigns to be launched! 
+From this adjusted graph we can confirm that historically May does have the greatest number of launched campaigns but it also has the greatest success rate of the entire year at 67%.  May also had the lowest fail rate(31%).  This is likely the reason May is a popular month for campaigns to be launched! However, if Louise wanted to hold off on beginning her campaign until June, there wouldn't be a significant difference in her chances of success (based on the launch date alone).
 
 **Challenges with this analysis**
 Making this additional graph was a helpful step for me as I had to reference Google for guidance on changing the calculation for the outcomes column. It turned out to be failry simple: Add a second count of the "outcomes" and adjust the field category to "% of the row total".  See image below.  To create the graph I referenced [this forum](https://superuser.com/questions/1327704/excel-pivot-with-percentage-and-count-on-bar-graph) to help me create a "combo" graph with a secondary Y-axis.
