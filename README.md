@@ -52,6 +52,7 @@ Other information that might be interesting to present to Louise would be how ma
 
 Additionally, we may want to include an analysis of how long each campaign was live.  This will help ensure that her audience is motivated to pledge quickly but also allows enough time to get the word out and push the campaign.
 
+- - -
 ### In Conclusion
 Based off of these 2 parameters alone, Louise is doing quite well if she is close to her goal of $10,000!  
 
