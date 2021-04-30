@@ -1,7 +1,7 @@
 # Kickstarting with Excel - An Analysis of Kickstarter Campaigns
 - - -
 ## Overview of Project
-Our friend Louise needs to raise $10,000 for the performance she is organizing, *Fever*.  In this Module, we were tasked with sorting through a relatively large data set which included informaiton about past kickstarter campaigns in the hopes of revealing trends that would help Louise determine if her monetary goal is reasonable and establish when during the year she should launch her campaign to optimize her efforts.
+Our friend, Louise, needs to raise $10,000 for the performance she is organizing, *Fever*.  In this Module, we were tasked with sorting through a relatively large data set which included informaiton about past kickstarter campaigns in the hopes of revealing trends that would help Louise determine if her monetary goal is reasonable and establish when during the year she should launch her campaign to optimize her efforts.
 - - -
 ### Purpose
 While completing this module students were introduced to some of the automated features that Excel has to offer such as:
@@ -30,7 +30,7 @@ From the graph above, we can clearly see that the greatest number of successful 
 From this adjusted graph we can confirm that historically May does have the greatest number of launched campaigns but it also has the greatest success rate of the entire year at 67%.  May also had the lowest fail rate(31%).  This is likely the reason May is a popular month for campaigns to be launched! 
 
 **Challenges with this analysis**
-This adjusted graph was created by simply adding a second count of the "outcomes"  and adjusting the field category to a "% of the row total".  Making this additional graph was a helpful step for me as I had to reference Google for guidance on changing the calculation for the outcomes column. It turned out to be failry simple: Add a second count of the "outcomes" and adjust the field category to "% of the row total".  See image below.  To create the graph I referenced [this forum](https://superuser.com/questions/1327704/excel-pivot-with-percentage-and-count-on-bar-graph) to help me create a "combo" graph with a secondary Y-axis.
+Making this additional graph was a helpful step for me as I had to reference Google for guidance on changing the calculation for the outcomes column. It turned out to be failry simple: Add a second count of the "outcomes" and adjust the field category to "% of the row total".  See image below.  To create the graph I referenced [this forum](https://superuser.com/questions/1327704/excel-pivot-with-percentage-and-count-on-bar-graph) to help me create a "combo" graph with a secondary Y-axis.
 
 ![Adjusting the Pivot Table to show Percentages instead of total counts](https://github.com/murphyk2021/kickstarter-analysis/blob/4ef50dc63bad0f72920e3418cfb52275bbced9d5/making%20a%20percentage%20of%20the%20s_f_c%20kickstarters%20by%20launch%20date.png)
 
