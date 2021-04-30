@@ -17,12 +17,12 @@ In addition to the functions of Excel, students were introduced to commonly used
 - - -
 ## Analysis and Challenges
 To generate this analysis the first thing we needed to do was create an easily manipulated pivot table.  In our pivot table we included the number of successful, failed, and canceled kickstarter projects and filtered the results to only include those related to theater productions.  We also sorted this data to display which months of the year had the most campaigns in each of the aforementioned categories.  [See source file](kickstarter_challenge_COPY.zip).
-- - - 
+
 ### Results:  Outcomes Based on Launch Date
 
 ![Outcomes based on launch date](https://github.com/murphyk2021/kickstarter-analysis/blob/4ef50dc63bad0f72920e3418cfb52275bbced9d5/Theater_outcomes_vs_Launch.png)
 
----
+
 From the graph above, we can clearly see that the greatest number of successful campaigns were luanched during the month of May.  However, it is important to note that the highest total number of campaigns (166) were launched during the same month. To confirm that we have not accidentally come to the false conclusion that May has the best chance of success, it might be interesting to take this one step further and look at the *percentage* of successful campaigns launched in each month. 
 
 ![Percentage of Successful, Failed, of Canceled Kickstarters based on Launch date](https://github.com/murphyk2021/kickstarter-analysis/blob/4f5b13f948bb4e31eff157e442898b7778bf40c7/Theater_outcomes_vs_Launch_Percentage.png)
@@ -33,7 +33,6 @@ From this adjusted graph we can confirm that historically May does have the grea
 Making this additional graph was a helpful step for me as I had to reference Google for guidance on changing the calculation for the outcomes column. It turned out to be failry simple: Add a second count of the "outcomes" and adjust the field category to "% of the row total".  See image below.  To create the graph I referenced [this forum](https://superuser.com/questions/1327704/excel-pivot-with-percentage-and-count-on-bar-graph) to help me create a "combo" graph with a secondary Y-axis.
 
 ![Adjusting the Pivot Table to show Percentages instead of total counts](https://github.com/murphyk2021/kickstarter-analysis/blob/4ef50dc63bad0f72920e3418cfb52275bbced9d5/making%20a%20percentage%20of%20the%20s_f_c%20kickstarters%20by%20launch%20date.png)
-
 
 - - -
 ### Results Outcomes Based on Goals
