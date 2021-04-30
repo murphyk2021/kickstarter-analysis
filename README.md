@@ -36,16 +36,19 @@ Making this additional graph was a helpful step for me as I had to reference Goo
 
 - - -
 ### Results Outcomes Based on Goals
-Insert written analysis here
-![Box Plot of Goals and Pledges](https://user-images.githubusercontent.com/82485318/116011472-ef42e100-a5ea-11eb-95af-b22d7773599f.png)
+To determine the relative success of fundraisers for plays with regard to their goals, we needed to create another worksheet in our workbook that would automatically look through our original data set and identify how many play campaigns had goals within a certain range and how many of those campaigns were successful.  We used a "CountIf" to achieve this goal.  See the set up below.
+![Using the "CountIf" Statement](https://github.com/murphyk2021/kickstarter-analysis/blob/31442fdc34979290fa8711ff26d7995c47a23e5b/countif.png)
+
+From this data we can easily create a line graph which shows the percentage of campaigns which were successful or not.  
+![Outcomes based on Goal](https://github.com/murphyk2021/kickstarter-analysis/blob/31442fdc34979290fa8711ff26d7995c47a23e5b/resources/Outcomes_vs_Goals.png)
+
+From this data there appears to be some important monetary brackets to avoid.  For example, campaigns that set their goals between $5,000 and $35,000 are generally less successful than those set <$5,000.  However, we do see some increase in success in the range of $35,000 and $45,000. 
+
+Another graph we may want to consider making for this report would be a box plot.  Box plots can be really helpful as we can clearly see the mean, median, quartiles, and any potential outliers all in one image!  This will help us determine wheter our initial graph included some outliers that might skew the data.
+
+###In Conclusion
+Louise is doing quite well if she is close to her goal of $10,000!  At this range, it appears to be close to 50/50 chance of success.  
+
 
 - - -
-### Challenges and Difficulties Encountered
-Insert stuff here
 
-- - -
-## Results
-Two conclusions based on outcomes based on launch date
-conclusion based on goals
-Limitations of the dataset
-Possible tables and/or graphs that we could create moving forward
